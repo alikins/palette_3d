@@ -1,0 +1,257 @@
+GIMP Palette
+255 255 255  		grey100
+  0 255 255 		cyan1
+  0   0   0 		grey0
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+255 255 255  		grey100
+  0   0 255 		blue1
+255   0 255 		magenta1
+  0   0   0 		grey0
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 200
+255 255 255  		grey100
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0   0 100
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255 255 255  		grey100
+250   0   0
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0   0 		grey0
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255 255  		grey100
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+  0   0   0 		grey0
+200   0   0
+255 255   0 		yellow1
+255 100 255
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 200   0
+  0   0   0 		grey0
+  0 255   0 		green1
+255 255 255  		grey100
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0   0 		grey0
+255 255 255  		grey100
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255 255 255  		grey100
+  0   0   0 		grey0
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 200
+100   0 255
+255 255 255  		grey100
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+200   0 255
+255   0   0 		red1
+255 255 255  		grey100
+255 255   0 		yellow1
+  0   0   0 		grey0
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+255 255 255  		grey100
+  0 255   0 		green1
+  0 200 255
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+255 255 255  		grey100
+  0 255 100
+  0   0 255 		blue1
+  0   0   0 		grey0
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+255 255 255  		grey100
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+200 200 255
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0   0   0 		grey0
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+200 200 200
+255   0   0 		red1
+255 255   0 		yellow1
+  0 100   0 		DarkGreen
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255 255  		grey100
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+  0   0   0 		grey0
+255   0 255 		magenta1
+255   0   0 		red1
+255 200   0
+255 255 255  		grey100
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+255 255 255  		grey100
+  0 255 255 		cyan1
+  0   0 255 		blue1
+100   0 255
+255   0   0 		red1
+255 255   0 		yellow1
+  0   0   0 		grey0
+  0 200   0
+  0 255 255 		cyan1
+255 255 255  		grey100
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 200
+  0   0 255 		blue1
+255 255 255  		grey100
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0   0 		grey0
+  0   0 255 		blue1
+255   0 255 		magenta1
+255 255 255  		grey100
+255   0   0 		red1
+255 255 100
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255 255  		grey100
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+  0   0   0 		grey0
+200 255   0
+255 255 255  		grey100
+  0 200 100
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+255 255 255  		grey100
+  0 100 255
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0   0 		grey0
+255 255 255  		grey100
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255 255 255  		grey100
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255 255 255  		grey100
+100   0   0
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 200 255
+255 255   0 		yellow1
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+255 255 255  		grey100
+  0 255   0 		green1
+  0 255 255 		cyan1
+  0   0 255 		blue1
+255   0 255 		magenta1
+255   0   0 		red1
+255 255   0 		yellow1
+  0 200   0

@@ -1,0 +1,51 @@
+This is a set of palettes/gradients generated from an archive of Fractint
+map files archived by Dan Goldwater < dgold@brown.edu > as part of the
+larger FracXtra package of goodies for Fractint. 
+
+There are also files in here from an archive by Noel Griffin
+<noel@triumf.ca> that can be found at:
+	http://spanky.triumf.ca/www/fractint/fractint.html
+
+The list of all the files that came from Noel Griffins archive is in
+ng_palette_names.txt. The names listed in ng_maps.txt are the maps that 
+Noel Griffin created specifically. 
+
+ But, alot of these files can be found elsewhere and none of the archives 
+contained any copyright or author info (and the few map files that did, 
+the info has been preserved in the palette file).
+
+Any comments that were in the original map files have been preserved in
+the palettes files so authors, copyrights etc should be preserved. Most of
+these map files had no info about the author so it is assumed they are
+re-distributable. (I contacted Dan Goldwater about this and he said it
+should be okay). 
+
+NOTE: I do not claim these files as mine, nor do I claim they are public
+domain or GPL or BSD license. They are under the original copyright as
+expressed by the authors. If there is no copyright or author info, it is
+because the original didnt have this info in it. I make no claims as to
+the distribulity of these files. 
+	If any of these are your files and you dont want them modified or
+distributed, let me know.
+
+As far as I know, the Gimp gradient file format doesnt support comments.
+So the comments from the map files dont make it to the gradient files.
+However, the names havent been changed so, any potential copyright info
+can be extracted from the corresponding palette files. NOTE: the gradient
+files do have "AG_" prepended to the filename to notate that they are
+auto-generated. 
+
+The scripts are copyright by there respective authors. I belive they are
+under GPL.
+
+one caveat: unless you have a really large screen and a tiny font, your
+not going to be able to see more than maybe 60 palettes in the palette
+dialog. I would consider this a bug and would like to see it get replaced
+with a listbox (I belive Seth Burgess is working on this...). This
+hopefuly will be fixed by 1.0.
+
+Adrian Likins
+aklikins@eos.ncsu.edu
+http://www4.ncsu.edu/~aklikins/
+
+ 
